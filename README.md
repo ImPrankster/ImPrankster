@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ruofan Wang, an amateur Developer & Game Designer from Shanghai.
+- 👋 Hi, I’m Leo Wang, an amateur Developer & Game Designer from Shanghai.
 - 👀 Interested in Game / Web / Mobile APP Dev.
 - 🌱 Currently learning Next.js / PostgreSQL / Node.js / Typescript
 
