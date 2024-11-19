@@ -1,7 +1,7 @@
-- 👋 I'm Leo Wang, a Web / Game Developer & Designer.
+- 👋 I'm Ruofan Wang.
 - 🧑‍🎓 Studying @NYUShanghai
 - 🗣️ Speaks Chinese, English & TypeScript
-- 📖 Learning Web Dev, Mobile Dev, Graphic Design & more!
+- 📝 (My Blog)[https://leow.io]
 
 <!---
 ImPrankster/ImPrankster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
