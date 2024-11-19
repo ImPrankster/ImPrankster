@@ -1,7 +1,7 @@
 - 👋 I'm Ruofan Wang.
 - 🧑‍🎓 Studying @NYUShanghai
 - 🗣️ Speaks Chinese, English & TypeScript
-- 📝 (My Blog)[https://leow.io]
+- 📝 [My Blog](https://leow.io)
 
 <!---
 ImPrankster/ImPrankster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
